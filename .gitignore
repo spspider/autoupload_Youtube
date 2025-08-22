@@ -3,7 +3,8 @@
 **/*token.pickle
 .venv/
 __pycache__/
-uplaoded_videos/
+uploaded_videos/
+uploaded_videos_tiktok/
 *.pyc
 *.pyo
 *.pyd
@@ -17,3 +18,4 @@ uplaoded_videos/
 *.mkv
 *.mov
 *.flv
+cookies.txt

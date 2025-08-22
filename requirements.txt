@@ -3,3 +3,4 @@ google-auth-oauthlib
 google-auth-httplib2
 google-api-python-client
 argostranslate>=1.9.4
+tiktok-uploader

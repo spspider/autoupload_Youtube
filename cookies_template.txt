@@ -1,0 +1,31 @@
+# TikTok Cookies Template
+# 
+# Instructions to get your TikTok cookies:
+# 
+# Method 1 - Browser Extension:
+# 1. Install "Get cookies.txt" extension in Chrome/Firefox
+# 2. Go to tiktok.com and login
+# 3. Click the extension icon and export cookies
+# 4. Save the content to cookies.txt
+#
+# Method 2 - Developer Tools:
+# 1. Go to tiktok.com and login
+# 2. Press F12 to open Developer Tools
+# 3. Go to Application/Storage tab
+# 4. Click on Cookies -> https://www.tiktok.com
+# 5. Copy all cookie values in Netscape format
+# 6. Save to cookies.txt
+#
+# Method 3 - Manual Format:
+# Replace the example below with your actual cookie values
+# Format: domain	flag	path	secure	expiration	name	value
+#
+# Example format (replace with your actual values):
+# .tiktok.com	TRUE	/	TRUE	1234567890	sessionid	your_session_id_here
+# .tiktok.com	TRUE	/	TRUE	1234567890	csrf_token	your_csrf_token_here
+# .tiktok.com	TRUE	/	TRUE	1234567890	tt_webid	your_webid_here
+#
+# IMPORTANT: 
+# - Rename this file to 'cookies.txt' after adding your cookies
+# - Keep your cookies private and secure
+# - Cookies expire, so you may need to update them periodically
